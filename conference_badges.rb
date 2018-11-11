@@ -8,6 +8,7 @@ def HelloMyNameIs (speakers_array)
 end
 
 HelloMyNameIs(speakers_array)
+
 #def badge_maker(speaker_name) #putting the array name in the parentheses will display all the speakers' names in one output
   #puts "Hello my name is #{speaker_name}"
 #end
