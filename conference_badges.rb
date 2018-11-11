@@ -13,5 +13,6 @@ def batch_badge_creator (r)
   badge_maker (r)
   counter =+ 1 
 end
+end
 
 batch_badge_creator(speakers_array)
