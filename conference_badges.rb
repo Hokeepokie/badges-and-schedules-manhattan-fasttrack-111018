@@ -16,6 +16,5 @@ end
 
 batch_badge_creator(speakers_array)
 
-#def assign_rooms
-  #takes list of speakers_array[], assigns to room
-#end 
+
+  
