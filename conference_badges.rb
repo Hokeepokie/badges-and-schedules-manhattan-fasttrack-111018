@@ -10,9 +10,11 @@ end
 def batch_badge_creator (Array)
   counter =0
   while counter <= speakers_array.length 
-  badge_maker (speakers_array)
+  badge_maker (Array)
   counter =+ 1 
 end
+
+batch_badge_creator (speakers_array)
 
 def assign_rooms
   #takes list of speakers_array[], assigns to room
