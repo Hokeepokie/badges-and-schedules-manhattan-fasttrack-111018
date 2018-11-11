@@ -7,4 +7,4 @@ end
 
 speakers_array = ["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
 
-puts speakers_array
+badge_maker (speakers_array)
