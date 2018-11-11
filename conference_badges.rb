@@ -8,7 +8,7 @@ def badge_maker (speaker_name) #putting the array name in the parentheses will d
 end
 
 def batch_badge_creator (r)
-  counter =0
+  counter = 0
   while counter <= speakers_array.length 
   badge_maker (r)
   counter =+ 1 
