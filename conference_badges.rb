@@ -14,7 +14,7 @@ def batch_badge_creator (r)
   counter =+ 1 
 end
 
-batch_badge_creator (speakers_array)
+batch_badge_creator(speakers_array)
 
 #def assign_rooms
   #takes list of speakers_array[], assigns to room
