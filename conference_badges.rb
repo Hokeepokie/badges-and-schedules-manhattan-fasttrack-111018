@@ -7,3 +7,11 @@ end
 
 speakers_array = ["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
 
+
+def batch_badge_creator
+end
+
+rooms_array = ["1", "2", "3", "4", "5", "6", "7"]
+def assign_rooms
+  #takes list of speakers_array[], assigns to room
+end 
