@@ -7,3 +7,4 @@ end
 
 speakers_array = ["Edsger","Ada","Charles","Alan","Grace","Linus","Matz"]
 
+badge_maker (speakers_array)
