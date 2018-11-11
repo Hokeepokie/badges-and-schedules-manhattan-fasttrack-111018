@@ -15,6 +15,3 @@ def batch_badge_creator (r)
 end
 
 batch_badge_creator(speakers_array)
-
-
-  
